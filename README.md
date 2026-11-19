@@ -29,16 +29,19 @@ I'm particularly interested in functional testing, test design, and software qua
 
 ### 📂 QA Portfolio
 
-**Mesto — Web Application Testing**
+This profile serves as a collection of my practical QA projects and testing documentation.
 
-A practical project focused on testing a web application.
-
+My projects demonstrate practical experience with:
 - Test case design and execution
+- Checklists and test documentation
 - Functional and regression testing
-- Bug reporting and documentation
+- Bug reporting and defect tracking
 - Retesting and defect verification
+- SQL and database testing
 
-*More projects coming soon.*
+**Selected Projects**
+
+Project repositories and documentation will be added here as I complete and publish my work.
 
 ### 🎯 Currently Learning
 
@@ -50,7 +53,7 @@ A practical project focused on testing a web application.
 
 ### 📫 Contact
 
-- GitHub: [maxim3535-a1ly](https://github.com/maxim3535-a1ly)
+- GitHub: [maxim3535-a11y](https://github.com/maxim3535-a11y)
 
 ---
 
