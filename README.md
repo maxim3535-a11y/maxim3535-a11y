@@ -53,7 +53,6 @@
 
 - Telegram: [@maximG3535](https://t.me/maximG3535)
 - E-mail: [maxim3535@mail.ru](mailto:maxim3535@mail.ru)
-- GitHub: [maxim3535-a11y](https://github.com/maxim3535-a11y)
 
 ---
 
