@@ -1,60 +1,60 @@
-# Hi, I'm Maxim Gura 👋
+# Привет! Я Максим Гура 👋
 
-### Junior QA Engineer | Manual Testing
+### Junior QA Engineer | Ручное тестирование
 
-I'm an aspiring QA Engineer with **8 years of experience in IT**, including system administration and technical support.
+Начинающий инженер по тестированию с **8-летним опытом работы в IT**, включая системное администрирование и техническую поддержку.
 
-I have completed the **QA Engineer course at Yandex Practicum** and am currently developing my skills in software testing.
+Окончил курс **«Инженер по тестированию» в Яндекс Практикуме** и продолжаю развиваться в области обеспечения качества программного обеспечения.
 
-My previous IT experience has helped me build a strong technical foundation, develop analytical thinking, troubleshoot technical issues, and understand how software and systems work.
+Предыдущий опыт в IT помог мне сформировать техническую базу, аналитическое мышление и навыки поиска и устранения неисправностей. Понимаю принципы работы программного обеспечения и систем, умею разбираться в технических проблемах.
 
-I'm particularly interested in functional testing, test design, and software quality assurance.
+Интересуюсь функциональным тестированием, проектированием тестов и повышением качества программных продуктов.
 
-### 🛠️ Skills & Tools
+### 🛠️ Навыки и инструменты
 
-**Testing**
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Retesting
-- Web, Mobile and API Testing
-- Test Case Design
-- Bug Reporting
-- Equivalence Partitioning
-- Boundary Value Analysis
+**Тестирование**
+- Ручное тестирование
+- Функциональное тестирование
+- Регрессионное тестирование
+- Ретестирование
+- Тестирование веб-приложений, мобильных приложений и API
+- Разработка тест-кейсов
+- Составление баг-репортов
+- Классы эквивалентности
+- Анализ граничных значений
 
-**Databases**
+**Базы данных**
 - SQL
 - PostgreSQL
 
-### 📂 QA Portfolio
+### 📂 QA-портфолио
 
-This profile serves as a collection of my practical QA projects and testing documentation.
+В репозитории собраны мои практические проекты и тестовая документация.
 
-My projects demonstrate practical experience with:
-- Test case design and execution
-- Checklists and test documentation
-- Functional and regression testing
-- Bug reporting and defect tracking
-- Retesting and defect verification
-- SQL and database testing
+В проектах представлены:
+- Разработка и выполнение тест-кейсов
+- Чек-листы и тестовая документация
+- Функциональное и регрессионное тестирование
+- Составление баг-репортов и работа с дефектами
+- Ретестирование и проверка исправлений
+- SQL-запросы и тестирование баз данных
 
-**Selected Projects**
+**[Посмотреть QA-портфолио](https://github.com/maxim3535-a11y/yandex-practicum-qa-portfolio)**
 
-Project repositories and documentation will be added here as I complete and publish my work.
+### 🎯 Сейчас изучаю
 
-### 🎯 Currently Learning
+- Методологии и техники тестирования программного обеспечения
+- Проектирование тестов и подготовку тестовой документации
+- SQL и тестирование баз данных
+- Тестирование API
+- Основы автоматизации тестирования и инструменты для её реализации
 
-- Software testing methodologies and techniques
-- Test design and test documentation
-- SQL and database testing
-- API testing
-- Improving practical QA skills
+### 📫 Контакты
 
-### 📫 Contact
-
+- Telegram: [@maximG3535](https://t.me/maximG3535)
+- E-mail: [maxim3535@mail.ru](mailto:maxim3535@mail.ru)
 - GitHub: [maxim3535-a11y](https://github.com/maxim3535-a11y)
 
 ---
 
-*Open to Junior QA Engineer opportunities and professional growth.*
+*Открыт к предложениям на позицию Junior QA Engineer и профессиональному развитию.*
